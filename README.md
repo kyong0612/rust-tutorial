@@ -1,6 +1,6 @@
 # rust-tutorial
 
-### install
+### Install
 
 ##### Rust
 - maxOS,linux
@@ -8,5 +8,5 @@
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-##### plugin
+##### Plugin
 [vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
